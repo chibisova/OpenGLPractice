@@ -1,1 +1,1 @@
-# HumeshView
+# OpenGL Practice Project
